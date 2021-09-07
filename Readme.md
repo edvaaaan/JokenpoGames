@@ -12,6 +12,14 @@ arma acerta pedra, fogo, tesoura e humano.
 
 ATENÇÂO: Digite o nome dos objetos em inglês.
 
+PT: Regras do Jokenpo TBBT:
+
+É o famoso jogo de pedra, papel, tesoura, lagarto e spock 
+da série The big bang theory.
+
+ATENÇÃO: Digete apenas a inical dos objetos em inglês.
+ATENÇÂO: Spock = K.
+
 EN: Mega Jokenpo rules:
 
 rock hammers fire, crushes scissors, human and sponge.
@@ -23,14 +31,6 @@ paper blows air, copper rock, floats on water, has more power than a weapon.
 air blows fire, corrodes rock, evaporates water, stains the weapon.
 water corrodes rock, extinguishes fire, rusts scissors and gun.
 weapon hits rock, fire, scissors and human.
-
-PT: Regras do Jokenpo TBBT:
-
-É o famoso jogo de pedra, papel, tesoura, lagarto e spock 
-da série The big bang theory.
-
-ATENÇÃO: Digete apenas a inical dos objetos em inglês.
-ATENÇÂO: Spock = K.
 
 EN: Jokenpo TBBT rules:
 
